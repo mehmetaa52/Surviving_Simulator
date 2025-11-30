@@ -35,9 +35,3 @@ Oyuncu aşağıdaki komutları kullanarak hayatta kalmaya çalışır:
 
 Proje standart C kütüphanelerini kullanır (`stdio.h`, `stdlib.h`, `time.h`, `ctype.h`). Herhangi bir C derleyicisi ile çalıştırılabilir.
 
-### Derleme (GCC Örneği)
-Terminal veya komut satırında şu komutu kullanabilirsiniz:
-
-```bash
-gcc main.c -o survival_game
-./survival_game
